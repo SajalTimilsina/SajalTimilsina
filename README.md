@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sajal-timilsina" target="blank"><img align="center" src="https://user-images.githubusercontent.com/19229631/118383639-c7351500-b5cd-11eb-966e-23a4c05c17c8.jpg" alt="sajal-timilsina" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajal-timilsina" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E12AQHh9fBjpzFo1A/article-inline_image-shrink_1000_1488/0/1520629876336?e=1626912000&v=beta&t=wtyP8tIqLhzLy2raBTtpBxXBdTb7hP3EbAMnsJZpBHI" alt="sajal-timilsina" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
