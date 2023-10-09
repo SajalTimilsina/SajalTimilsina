@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sajal Timilsina</h1>
-<h3 align="center">A passionate Engineer from Toronto who loves to explore web technology and embeded system</h3>
+<h3 align="center">A passionate Engineer from Toronto who loves to explore web technology and embedded system</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajaltimilsina&label=Profile%20views&color=0e75b6&style=flat" alt="sajaltimilsina" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajaltimilsina" alt="sajaltimilsina" /></a> </p>
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m Experienced in **Laravel, JS, React, Node JS**
 
 - 📫 How to reach me **sazzal77@gmail.com**
 
