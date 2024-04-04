@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sazzal77](https://medium.com/@sazzal77)
 
-- 💬 Ask me about **react, node and mongodb.**
+- 💬 Ask me about ** AWS Services, React, Node and Mongodb.**
 
 - 📫 How to reach me **sazzal77@gmail.com**
 
