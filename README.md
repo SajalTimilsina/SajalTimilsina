@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sajal Timilsina</h1>
 <h3 align="left">Highlights:</h3>
 
-<p>I have 5+ years of comprehensive experience in the IT industry particularly as an AWS Solutions Architect. I have an in-depth knowledge on various AWS Services including EC2, VPC (NAT, VPN, IAM, Elastic Beanstalk, Lambda, S3, Cloud Front, RDS, DynamoDB, Elastic Cache, Route 53, cloud watch, Cloud Formation, SNS, SQS, Lambda etc., I have strong aptitude to analyze and resolve problems. I'm Proactive with Good Leadership, organizational and Management skills.</p>
+<p>I have 5+ years of comprehensive experience in the IT industry particularly as an AWS Solutions Architect & FullStack Engineer. I have an in-depth knowledge on various AWS Services including EC2, VPC (NAT, VPN, IAM, Elastic Beanstalk, Lambda, S3, Cloud Front, RDS, DynamoDB, Elastic Cache, Route 53, cloud watch, Cloud Formation, SNS, SQS, Lambda etc., I have strong aptitude to analyze and resolve problems. I'm Proactive with Good Leadership, organizational and Management skills.</p>
 
 - 📝 I regularly write articles on [https://medium.com/@sazzal77](https://medium.com/@sazzal77)
 
